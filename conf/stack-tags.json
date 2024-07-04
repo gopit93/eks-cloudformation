@@ -1,7 +1,7 @@
 [
     {
       "Key": "ProjectName",
-      "Value": "eks-cloudformation-sample-project"
+      "Value": "eks-cloudformation-project"
     },
     {
         "Key": "AdminContact",
