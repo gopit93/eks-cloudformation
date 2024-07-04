@@ -29,7 +29,7 @@
   },
   {
     "ParameterKey": "EksVersion",
-    "ParameterValue": "1.22"
+    "ParameterValue": "1.0"
   },
   {
     "ParameterKey": "EksNodeInstanceType",
